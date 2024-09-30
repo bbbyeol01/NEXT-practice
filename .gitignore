@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Log files
+*.log
+
+# 환경 변수 파일
+.env
+.env.local
+
+# MacOS 시스템 파일
+.DS_Store
+
+# 테스트 관련 파일
+coverage/
+
+# VS Code 설정 파일
+.vscode/
+
+# ESLint 캐시 파일
+.eslintcache
